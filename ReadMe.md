@@ -14,4 +14,6 @@ Date:-19-01-2023
 => css folder contains only two bootstrap css files bootstrap.min.css and style.css
 =>Font awesome contains icon library.
 => Js folder contains only one main.js javascript file.
+=> google font-awesome directory is not included in given folder to make it fullly visible download it and move the directory in to source folder. 
  
+
